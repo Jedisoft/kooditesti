@@ -1,0 +1,24 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.2.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "kooditesti", "kooditesti.csproj", "{CCE93636-F828-0237-CB0E-A77BA4B58FBD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CCE93636-F828-0237-CB0E-A77BA4B58FBD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CCE93636-F828-0237-CB0E-A77BA4B58FBD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CCE93636-F828-0237-CB0E-A77BA4B58FBD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CCE93636-F828-0237-CB0E-A77BA4B58FBD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7C68523A-53B3-4477-89F1-6598892BA59F}
+	EndGlobalSection
+EndGlobal
